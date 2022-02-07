@@ -1,0 +1,9 @@
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.exe
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\bin\Debug\ContentAwareResize.pdb
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csprojAssemblyReference.cache
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Form1.resources
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.ImageForm.resources
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.Properties.Resources.resources
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.csproj.GenerateResource.cache
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.exe
+D:\University\third year\first term\algo\assignments\Task\[1]ContentAwareResize\[TEMPLATE]ContentAwareResize\ContentAwareResize\obj\Debug\ContentAwareResize.pdb
